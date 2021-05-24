@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+data
+.cache
+env_variables.py
+spotify-recoomendation-engine.ipynb
+spotify.ipynb
