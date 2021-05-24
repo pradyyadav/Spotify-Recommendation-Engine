@@ -10,10 +10,10 @@
 
 
 ## Table of contents
-- [Introduction]()
-- [About]()
-- [Technologies]()
-- [Setup]()
+- [Introduction](https://github.com/pradyyadav/Spotify-Recommendation-Engine#Introduction)
+- [About](https://github.com/pradyyadav/Spotify-Recommendation-Engine#About)
+- [Technologies](https://github.com/pradyyadav/Spotify-Recommendation-Engine#Technologies)
+- [Setup](https://github.com/pradyyadav/Spotify-Recommendation-Engine#Setup)
 
 ## Introduction
 During the last few decades, with the rise of Youtube, Amazon, Netflix and many other such web services, recommender systems have taken more and more place in our lives. From e-commerce (suggest to buyers articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), recommender systems are today unavoidable in our daily online journeys.
