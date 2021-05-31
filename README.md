@@ -8,6 +8,8 @@
 
 ##### A content-based Recommendation system which recommends the songs a user may like. Based on user's previous interests, it uses clustering to find similar songs and finally recommend the most similar songs.
 
+**Check this [notebook](https://drive.google.com/file/d/1nkmC-wGsGah02NBcEG9uVcbhe0R0uSpM/view?usp=sharing) for implementation**
+
 
 ## Table of contents
 - [Introduction](https://github.com/pradyyadav/Spotify-Recommendation-Engine#Introduction)
